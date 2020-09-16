@@ -1,3 +1,4 @@
 # TestingAutoBuild
 Jut one file
-Hello World
+Build 1
+Build 2
